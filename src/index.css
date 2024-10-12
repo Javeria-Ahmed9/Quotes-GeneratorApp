@@ -10,12 +10,15 @@
   width: 35px;
  margin-top: -10px;
  margin-right: 6px;
+
 }
 #main{
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-attachment: fixed;
 }
 #text{
 color:  rgba(44, 20, 20, 0.872); 
